@@ -1,0 +1,7 @@
+[booking.airasia.com]
+ratelimit = /Flight/Select 4s 4
+ratelimit = /Flight/PriceItinerary 4s 4
+
+[booking2.airasia.com]
+ratelimit = /Flight/Select 4s 4
+ratelimit = /Flight/PriceItinerary 4s 4
